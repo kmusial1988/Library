@@ -1,0 +1,6 @@
+library/AppConfigurationTest.class
+library/services/impl/UserServiceImplTest.class
+library/services/impl/BookServiceImplTest.class
+library/dao/impl/BookDAOStub.class
+library/dao/impl/UserDAOStub.class
+library/dao/impl/AuthorDAOStub.class
